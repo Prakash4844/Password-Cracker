@@ -1,4 +1,4 @@
-# PDF & Archive Password Helper
+# PDF & Archive Password Cracker
 
 `password_cracker.py` is a lightweight command-line tool for brute-forcing or dictionary-attacking password protected files. It supports PDFs, ZIP/RAR/7Z archives, and ISO/DMG images (using `hdiutil` on macOS or the `7z` CLI elsewhere). You can mix and match seed guesses, pattern-based brute force, fixed-length brute force, and dictionary fallbacks. Successful passwords are written to `Cracked password.txt`.
 
